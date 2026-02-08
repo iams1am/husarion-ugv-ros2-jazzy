@@ -16,5 +16,4 @@ source install/setup.bash
 ```
 
 # RUN Simulation
-```ros2 launch husarion_ugv_gazebo simulation.launch.py use_sim:=True robot_model:=panther
-```
+```ros2 launch husarion_ugv_gazebo simulation.launch.py use_sim:=True robot_model:=panther ```
