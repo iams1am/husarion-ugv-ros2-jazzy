@@ -3,9 +3,9 @@
 This repository contains a ROS 2 Jazzy workspace for simulating
 Husarion UGV platforms (Panther/Lynx) using Gazebo Harmonic.
 
-<img width="1948" height="998" alt="Screenshot from 2026-02-09 03-22-35" src="https://github.com/user-attachments/assets/e675d369-04dd-4666-99b7-07f54d84e671" />
-<img width="1920" height="1080" alt="Screenshot from 2026-02-09 03-57-06" src="https://github.com/user-attachments/assets/6d2825da-e2a6-4d77-a7aa-f71672ceff20" />
-<img width="1920" height="1080" alt="Screenshot from 2026-02-09 03-56-55" src="https://github.com/user-attachments/assets/3616fa69-f547-4e4f-b9c6-2acd0fca41c8" />
+<img width="1922" height="963" alt="Screenshot from 2026-02-09 03-22-35" src="https://github.com/user-attachments/assets/a90692ad-2839-4d75-bb5d-93f88a7ffe1c" />
+<img width="1920" height="971" alt="Screenshot from 2026-02-09 03-57-06" src="https://github.com/user-attachments/assets/20961c34-806b-4f3d-9bf4-da13fa67e201" />
+<img width="1920" height="977" alt="Screenshot from 2026-02-09 03-56-55" src="https://github.com/user-attachments/assets/304e3786-99e8-4c3f-85ae-8c0a89493cd2" />
 
 
 
