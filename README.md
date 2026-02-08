@@ -17,5 +17,7 @@ source install/setup.bash
 
 # RUN Simulation
 ```bash
+source /opt/ros/$ROS_DISTRO/setup.bash
+source ~/husarion_ws/install/setup.bash
 ros2 launch husarion_ugv_gazebo simulation.launch.py use_sim:=True robot_model:=panther 
 ```
